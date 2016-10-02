@@ -23,7 +23,7 @@ https://creativecommons.org/licenses/by/4.0/
 **Grant by**
 
 <a href='http://od4d.net/'><img
-href='http://sinarproject.org/OD4D.png/@@images/e106144d-1ad3-4b57-b5ea-46c94d94bb17.png'/></a>
+src='http://sinarproject.org/OD4D.png/@@images/e106144d-1ad3-4b57-b5ea-46c94d94bb17.png'/></a>
 
 **Supported by**
 
